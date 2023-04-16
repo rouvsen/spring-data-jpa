@@ -1,4 +1,4 @@
-package com.rouvsen;
+package com.rouvsen.entity;
 
 import jakarta.persistence.*;
 

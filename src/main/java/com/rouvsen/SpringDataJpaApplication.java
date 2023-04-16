@@ -1,5 +1,7 @@
 package com.rouvsen;
 
+import com.rouvsen.entity.Student;
+import com.rouvsen.repository.StudentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
